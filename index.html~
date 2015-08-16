@@ -45,7 +45,7 @@
         </div>
       </div>
     </div>
-
+	<!--
     <div class="row">
       <div class="large-8 medium-8 columns">
         <h5>Here&rsquo;s your basic grid:</h5>
@@ -166,7 +166,7 @@
         </div>
       </div>
     </div>
-    
+	-->
     <script src="js/vendor/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
     <script>
